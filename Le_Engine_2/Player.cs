@@ -25,6 +25,7 @@ namespace Le_Engine_2
             Orbit.IsAfectedByGravity = true;
             Orbit.color = Color.Red;
             Orbit.Velocity.X = 4;
+            //test
         }
         public override void OnUpdate()
         {
